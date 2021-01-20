@@ -1,0 +1,30 @@
+.AuthorBio__root__hkTNj {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+}
+.AuthorBio__root__hkTNj > .__wab_flex-container {
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.AuthorBio__root__hkTNj > .__wab_flex-container > *,
+.AuthorBio__root__hkTNj > .__wab_flex-container > .__wab_slot > * {
+  margin-left: 10px;
+}
+.AuthorBio__svg__qq6LF {
+  position: relative;
+  object-fit: cover;
+  width: 64px;
+  height: 64px;
+  flex-shrink: 0;
+}
+.AuthorBio__box__hKo9 {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: auto;
+  min-width: 0;
+}

@@ -1,0 +1,34 @@
+.HomepageHeader__root__uzeWo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+  position: relative;
+  min-width: 0;
+}
+.HomepageHeader__box__y7X {
+  display: flex;
+  position: relative;
+  align-self: center;
+}
+.HomepageHeader__logo__rUk1T.__wab_instance {
+  position: relative;
+  align-self: auto;
+  flex-shrink: 0;
+}
+.HomepageHeader__link__cOwQ5 {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.HomepageHeader__slotTitle__mnymN {
+  font-family: "Montserrat";
+  font-size: 32px /* plasmic-token: z-MnIaB5azyBG */;
+  font-weight: 900;
+}
+.HomepageHeader__authorBio__pEqdL.__wab_instance {
+  position: relative;
+}

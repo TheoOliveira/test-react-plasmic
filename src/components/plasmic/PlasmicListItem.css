@@ -1,0 +1,26 @@
+.ListItem__root__szrDz {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  min-width: 0;
+}
+.ListItem__root__szrDz > .__wab_flex-container {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-evenly;
+  margin-top: calc(0px - 3px);
+  height: calc(100% + 3px);
+}
+.ListItem__root__szrDz > .__wab_flex-container > *,
+.ListItem__root__szrDz > .__wab_flex-container > .__wab_slot > * {
+  margin-top: 3px;
+}
+.ListItem__slotTitle__yzU7C {
+  font-size: 24px /* plasmic-token: _rMZF2FSifXGN */;
+  font-weight: 900;
+  color: rgb(0, 122, 204) /* plasmic-token: h6hCUn5JOvh9T */;
+}
+.ListItem__slotDate__gtWw {
+  font-size: 12px /* plasmic-token: 0Esqrcy8_HgOi */;
+}

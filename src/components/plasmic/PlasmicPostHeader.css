@@ -1,0 +1,29 @@
+.PostHeader__root__hxGu {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-evenly;
+  width: 100%;
+  position: relative;
+  min-width: 0;
+}
+.PostHeader__link__mszE3 {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.PostHeader__slotBlogTitle__du5Cb {
+  font-family: "Montserrat";
+  font-size: 24px /* plasmic-token: _rMZF2FSifXGN */;
+  font-weight: 900;
+}
+.PostHeader__slotPostTitle__ernjO {
+  font-family: "Montserrat";
+  font-size: 32px /* plasmic-token: z-MnIaB5azyBG */;
+  font-weight: 900;
+}
+.PostHeader__slotDate__vfdp9 {
+  font-size: 12px /* plasmic-token: 0Esqrcy8_HgOi */;
+}
